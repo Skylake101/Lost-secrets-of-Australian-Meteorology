@@ -1,6 +1,6 @@
 //Luke Carlson
 //proton AAT
-*******************************************************************************/
+
 #include "SparkFunMicroOLED.h"  // Include MicroOLED library
 #include "math.h"
 #include "PietteTech_DHT.h"
