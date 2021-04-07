@@ -1,12 +1,8 @@
-# Photon-AAT-Module
+# Why use-the AAT?
 
-Tempature isn't helpful for knowing how comfortable the air will be. Humidity is also essential to determine how comfortable your outdoor activites will be.
-
-An metric that combines these is the AAT (Australian apparent temperature). This is a lost ancient mesopatanian art that scientists have discovered for me to conveniently use for this github repo.
-
+Tempature isn't helpful for knowing how comfortable the air will be. Humidity is also essential to determine how comfortable the air will be.
+A metric that combines these is the AAT (Australian Apparent Temperature). It also conveniently allows me to use both my new tempature and humidity module.
 This program utilizes a MicroOLED, a DHT22, a switch and a LED
-
-Since this module uses humidity and temp, I'll use a metric which uses both: the Australian Apparent Temperature (AAT)
 
 By default the display shows Humidity and Temp
 The brightness of the LED reflects humidity. Off at 0%, full intensity at 100%
