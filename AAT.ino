@@ -85,7 +85,7 @@ void loop()
 
   delay(2500);
 
-//==================================TEMPATURE FEELER
+//==========================TEMPERATURE FEELER
 }
 
 
