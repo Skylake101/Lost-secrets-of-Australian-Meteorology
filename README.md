@@ -1,10 +1,11 @@
 # Why use-the AAT?
 
-Tempature isn't helpful for knowing how comfortable the air will be. Humidity is also essential to determine how comfortable the air will be.
+Temperature isn't always helpful for knowing how comfortable the climate will be. Humidity is also essential to determine comfort.
 A metric that combines these is the AAT (Australian Apparent Temperature). It also conveniently allows me to use both my new tempature and humidity module.
+
 This program utilizes a MicroOLED, a DHT22, a switch and a LED
 
-By default the display shows Humidity and Temp
+By default the MicroOLED display shows Humidity and Temp
 The brightness of the LED reflects humidity. Off at 0%, full intensity at 100%
 While the switch is held down, the display reflects AAT
 
